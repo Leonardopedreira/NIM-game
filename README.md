@@ -1,7 +1,7 @@
 
 NIN-game
 =============
-Descrição
+This code consists in a mathematical game which you play with a computer. You can choose one number to represent how many objects (can be little rocks or anything you imagine) which are in the game and other number to represent the maximum of these objects you and the computer will elimite from match. The last one to remove the left over parts, win the game. I challenge you to win from the computer (without modify the code :).
 
 Table of Contents
 -----------------
