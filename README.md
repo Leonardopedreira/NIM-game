@@ -15,35 +15,14 @@ Table of Contents
 Project Background
 ----------
 
-aaaaaaaaaaaaa
-
+Just have Python and logical behind this code. Until now is very simple. We you modify and add more resources in the code, like a menu in the game and a visual mode.
 
 Install & Setup
 ---------------
-```html 
-git clone bbbbbbbbbbbbbbbbbbbbb
-cd bbbbbbbbbbbbbbbb
-```
-Install required packages
-```
-pip install -r requirements.txt
-```
 
 
 Usage
 -----
-
-ccccccccccccccccccccccccccccc
-```
-python src/app.py
-```
-ddddddddddddddddddddddddddddd
-```
-python src/app.py eeeeeeeeeeeeeeeeee
-ex:
-python src/app.py ffffffffffffff
-```
-
 
 
 Authors
